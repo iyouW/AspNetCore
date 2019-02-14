@@ -156,7 +156,7 @@ namespace Microsoft.AspNetCore.Builder
         }
 
         [Fact]
-        public void MapEndpoint_HttpMethodMetadataPrecedence()
+        public void MapEndpoint_PrecedenceOfMetadata_BuilderMetadataReturned()
         {
             // Arrange
             var builder = new DefaultEndpointRouteBuilder();
