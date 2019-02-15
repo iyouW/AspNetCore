@@ -25,6 +25,7 @@
     <MicrosoftBclJsonSourcesPackageVersion>4.6.0-preview.19106.2</MicrosoftBclJsonSourcesPackageVersion>
     <MicrosoftCSharpPackageVersion>4.6.0-preview.19106.2</MicrosoftCSharpPackageVersion>
     <MicrosoftWin32RegistryPackageVersion>4.6.0-preview.19106.2</MicrosoftWin32RegistryPackageVersion>
+    <SystemComponentModelPackageVersion>4.3.0</SystemComponentModelPackageVersion>
     <SystemComponentModelAnnotationsPackageVersion>4.6.0-preview.19106.2</SystemComponentModelAnnotationsPackageVersion>
     <SystemDataSqlClientPackageVersion>4.7.0-preview.19106.2</SystemDataSqlClientPackageVersion>
     <SystemDiagnosticsDiagnosticSourcePackageVersion>4.6.0-preview.19106.2</SystemDiagnosticsDiagnosticSourcePackageVersion>
